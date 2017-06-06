@@ -1,0 +1,15 @@
+{
+  "name": "celso-app",
+  "version": "1.0.0",
+  "description": "Prueba para ver lo q hace",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "@CelsoVazquez",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.6.10"
+  },
+  "dependencies": {}
+}
